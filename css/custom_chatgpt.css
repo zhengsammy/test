@@ -1,0 +1,41 @@
+/* custom_chatgpt.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.carousel-inner img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+}
+
+.footer p {
+    margin: 0;
+    font-size: 0.875rem;
+}
+
+
+
+.custom-title {
+    font-size: 1.5rem;
+    color:#0077ff; /*安全的淺藍色，對比度高*/
+    font-weight: bold;
+}
